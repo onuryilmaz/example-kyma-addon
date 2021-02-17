@@ -1,5 +1,5 @@
 ---
-title: Publish Hodor image
+title: Publish image
 type: Tutorials
 ---
 

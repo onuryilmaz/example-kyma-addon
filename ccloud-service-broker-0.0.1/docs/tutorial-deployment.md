@@ -1,5 +1,5 @@
 ---
-title: Sample Hodor deployment
+title: Sample deployment
 type: Tutorials
 ---
 
