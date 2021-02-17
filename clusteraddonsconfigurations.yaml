@@ -1,0 +1,8 @@
+apiVersion: addons.kyma-project.io/v1alpha1
+kind: ClusterAddonsConfiguration
+metadata:
+  managedFields:
+  name: ccloud-repo-urls
+spec:
+  repositories:
+  - url: "git::https://github.com/onuryilmaz/example-kyma-addon.git//index.yaml"
