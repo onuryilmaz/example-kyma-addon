@@ -1,13 +1,13 @@
-name: testing
+name: ccloud-service-broker
 version: 0.0.1
 id: faebbe18-0a84-11e9-ab14-d663bd873d94
-description: "A simple addon which contains a ConfigMap and a Deployment. Binding returns one value with the ConfigMap name."
-displayName: "Testing addon"
+description: "A service broker in WIP."
+displayName: "CCloud Service Broker"
 
 tags: test
 labels:
   showcase: "true"
 providerDisplayName: SAP
-longDescription: "A simple addon which contains a ConfigMap and a Deployment. Binding returns one value with the ConfigMap name."
+longDescription: "CCloud Service Broker in WIP"
 bindable: false
 planUpdatable: true

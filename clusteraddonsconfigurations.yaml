@@ -4,5 +4,6 @@ metadata:
   managedFields:
   name: ccloud-repo-urls
 spec:
+  reprocessRequest: 3
   repositories:
   - url: "git::https://github.com/onuryilmaz/example-kyma-addon.git//index.yaml"
